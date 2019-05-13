@@ -1,3 +1,0 @@
-0
-1
-diff stage and working diretory
